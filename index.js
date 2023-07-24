@@ -26,3 +26,7 @@ if(operator=== "*"){
     consol.log("leftNumber * rightNumber")
 }
 
+
+if(operator=== "/"){
+    consol.log("leftNumber / rightNumber")
+}
