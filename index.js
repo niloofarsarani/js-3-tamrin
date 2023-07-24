@@ -16,4 +16,9 @@ if(operator=== "+"){
 }
 
 
+if(operator=== "-"){
+    consol.log("leftNumber - rightNumber")
+}
+
+
 
